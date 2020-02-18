@@ -1,3 +1,5 @@
+# xserver needs to be running and IP:0 needs to be passed in environment
+
 FROM rust:latest
 
 ENV DEBIAN_FRONTEND noninteractive
